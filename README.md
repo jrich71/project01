@@ -2,7 +2,7 @@
 
 This analysis was conducted as **Project 1** for **Northwestern’s Artificial Intelligence Bootcamp Certificate Program**.
 
-📄 The slide deck is available online **[here](#)** as a PDF.
+📄 The slide deck is available online **[here](https://github.com/jrich71/project01/blob/main/2025-02-05_AI%20Bootcamp%20Project.pdf)** as a PDF.
 
 ---
 
